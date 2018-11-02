@@ -1,4 +1,5 @@
-#ifndef SERVER.H
+#ifndef SERVER_H
+#define SERVER_H
 
 #include<iostream>
 #include<string.h>
